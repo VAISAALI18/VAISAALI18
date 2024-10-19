@@ -6,18 +6,26 @@ Hi there!! I'm Vaisaali Priyankaa, a passionate ML engineer and Data Analyst cur
 
 ## Skills
 **Programming Languages:** C,Python,Java
+
 **Libraries:** Pandas,Numpy,Matplotlib,Seaborn,sklearn,TensorFlow,Keras
-**Tools: **Excel,PowerBI
+
+**Tools:** Excel,PowerBI
+
 **Web Development:** HTML,CSS,JavaScript,React,Angular
+
 **Database:** Oracle,MySql,MongoDB
+
 **Others:** Leadership,Public Speaking,Conflict resolution
 
-##Experience
-**Technical Lead, Datalytics(May 2024- present):** Responsible for Public Speaker  at Technical Workshop and Technical Event Coordinator.
+## Experience
+**Technical Lead, Datalytics Club(May 2024- present):** Responsible for Public Speaker  at Technical Workshop and Technical Event Coordinator.
+
+**Office Bearer, Literary Club(May 2024- Present):** Responsible for Documentation of Event records.
 
 ## Education
 **MSC Decision and Computing Science**
   Coimbatore Institute Of Technology(2022-2027)
+  
 **HSC**
   Bala Matriculation Higher Secondary School,Vellakovil(2021-2022)
 
