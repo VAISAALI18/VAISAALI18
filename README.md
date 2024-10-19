@@ -23,10 +23,11 @@ Hi there!! I'm Vaisaali Priyankaa, a passionate ML engineer and Data Analyst cur
 **Office Bearer, Literary Club(May 2024- Present):** Responsible for Documentation of Event records.
 
 ## Education
-**MSC Decision and Computing Science**
+**MSC Decision and Computing Science**:
   Coimbatore Institute Of Technology(2022-2027)
   
-**HSC**
+**HSC**:
   Bala Matriculation Higher Secondary School,Vellakovil(2021-2022)
 
+ 
   Let's Connect and Collaborate On Intresting Project
