@@ -6,17 +6,17 @@
 ---
 
 ## 👩‍💻 About Me  
-Hello! 👋 I'm **Vaisaali Priyankaa**, an enthusiastic **Data Analyst** and **ML Engineer**, passionate about uncovering the hidden stories within data. My goal is to leverage technology and analytics to solve real-world problems. I thrive in collaborative environments and enjoy learning new tools and technologies to expand my expertise.  
+Hello! 👋 I'm **Vaisaali Priyankaa**, an enthusiastic **Data Analyst** and **ML Engineer**, passionate about uncovering the hidden stories within data. My goal is to leverage technology and analytics to solve real-world problems. Currently pursuing my integrated **M.Sc. in Decision and Computing Science** at **Coimbatore Institute of Technology**, I thrive in collaborative environments and enjoy learning new tools and technologies to expand my expertise.  
 
 ---
 
 ## 🔧 Skills  
 ### **Languages & Libraries**  
 - 💻 **Programming**: C, Python, Java  
-- 📊 **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras  
+- 📊 **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras, NLTK, Spacy, Transformer, BeautifulSoup 
 
 ### **Web Development**  
-- 🌐 HTML, CSS, JavaScript, React, Angular  
+- 🌐 HTML, CSS, JavaScript, React(basic), Angular(basic)  
 
 ### **Database & Tools**  
 - 🗄️ Oracle, MySQL, MongoDB  
