@@ -1,33 +1,48 @@
-## Vaisaali Priyankaa
-Data Analyst Enthuist | Deep SQL Knowledge | MSC Decision and Computing Student
+# 🌟 Vaisaali Priyankaa 🌟  
+**Data Enthusiast | ML Engineer | Aspiring Innovator**  
 
-## About Me
-Hi there!! I'm Vaisaali Priyankaa, a passionate ML engineer and Data Analyst currently pursuing Decision and Computing Science at Coimbatore Institute of Technology, Coimbatore.
+> 🌱 *"Empowering decisions through data and building solutions for a smarter world."*  
 
-## Skills
-**Programming Languages:** C,Python,Java
+---
 
-**Libraries:** Pandas,Numpy,Matplotlib,Seaborn,sklearn,TensorFlow,Keras
+## 👩‍💻 About Me  
+Hello! 👋 I'm **Vaisaali Priyankaa**, an enthusiastic **Data Analyst** and **ML Engineer**, passionate about uncovering the hidden stories within data. My goal is to leverage technology and analytics to solve real-world problems. I thrive in collaborative environments and enjoy learning new tools and technologies to expand my expertise.  
 
-**Tools:** Excel,PowerBI
+---
 
-**Web Development:** HTML,CSS,JavaScript,React,Angular
+## 🔧 Skills  
+### **Languages & Libraries**  
+- 💻 **Programming**: C, Python, Java  
+- 📊 **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras  
 
-**Database:** Oracle,MySql,MongoDB
+### **Web Development**  
+- 🌐 HTML, CSS, JavaScript, React, Angular  
 
-**Others:** Leadership,Public Speaking,Conflict resolution
+### **Database & Tools**  
+- 🗄️ Oracle, MySQL, MongoDB  
+- 📊 Excel, PowerBI  
 
-## Experience
-**Technical Lead, Datalytics Club(May 2024- present):** Responsible for Public Speaker  at Technical Workshop and Technical Event Coordinator.
+### **Soft Skills**  
+- 🗣️ Leadership, Public Speaking, Conflict Resolution  
 
-**Office Bearer, Literary Club(May 2024- Present):** Responsible for Documentation of Event records.
+---
 
-## Education
-**MSC Decision and Computing Science**:
-  Coimbatore Institute Of Technology(2022-2027)
-  
-**HSC**:
-  Bala Matriculation Higher Secondary School,Vellakovil(2021-2022)
+## 🚀 Experience  
+### **Technical Lead**, *Datalytics Club* *(May 2024 – Present)*  
+- 🎙️ Delivered engaging talks as a **Public Speaker** at workshops.  
+- 📈 Coordinated technical events blending education with fun activities.  
 
- 
-  Let's Connect and Collaborate On Intresting Project
+### **Office Bearer**, *Literary Club* *(May 2024 – Present)*  
+- 📜 Documented and managed event records to streamline club operations.  
+
+---
+
+## 🌟 Let's Connect  
+- ✉️ [Email Me](mailto:rvaisaali677@gmail.com)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vaisaali18/)  
+
+
+---
+
+### 🌈 Fun Fact  
+**"If I could be any structure, I’d be a graph within a ‘while’ loop—persistently exploring connections and possibilities until the job is done!" 🔄🔗📐**  
